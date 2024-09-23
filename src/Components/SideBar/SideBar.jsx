@@ -85,7 +85,7 @@ const SideBar = () => {
               alt=""
               className="h-7 w-7 rounded-3xl border border-white"
             />
-            <h1>Punitnohar111@gmail.com</h1>
+            <h1>DhruvSWaminhr@gmail.com</h1>
           </div>
           <div>
             <div className="grid items-start justify-start gap-6 pt-[10%] pb-[12px] px-[20px] ">
