@@ -31,7 +31,7 @@ function App() {
           <Route path="/categories" element={<Categories />} />
           <Route path="/myList" element={<MyList />} />
           <Route path="/notifications" element={<Notifications />} />
-          <Route path="/" element={<Navigate to="/" />} />
+          <Route path="/" element={<Navigate to="/Search" />} />
         </Routes>
       </div>
     </div>
